@@ -11,10 +11,10 @@ Lord of The Quiz! ✨ Final Project Highlight ✨ Test your knowledge of Middle-
 
 # Key Skills Developed:
 
--Python Fundamentals
--Importing Modules and Utilizing External Libraries
--Problem-Solving and Algorithm Design
--Test driven development
+Python Fundamentals
+Importing Modules and Utilizing External Libraries
+Problem-Solving and Algorithm Design
+Test driven development
 
 # Exploration and Collaboration:
 
